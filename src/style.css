@@ -84,3 +84,8 @@ body{
     color: #fff;
     background: #06802f;
 }
+
+.calc-button:last-child:hover{
+    background-color: inherit;
+    color: inherit;
+}
