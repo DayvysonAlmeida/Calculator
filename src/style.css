@@ -21,6 +21,18 @@ body{
     height: inherit;
     justify-content: center;
 }
+  
+.feito{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  color:#fff
+}
+
+
 
 .wrapper{
     backdrop-filter: blur(5.5px);
