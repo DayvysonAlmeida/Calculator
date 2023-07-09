@@ -8,7 +8,7 @@ function buttonClick(value){
     if(isNaN(value)){
         handleSymbol (value);
     }else{
-        handNumber(value);
+        handleNumber(value);
 
     }
     screen.innerText = buffer;    
