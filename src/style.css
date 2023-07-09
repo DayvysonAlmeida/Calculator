@@ -97,3 +97,6 @@ body{
 .double{
     flex-basis: 47%;
 }
+.triple{
+    flex-basis: 73%;
+}
