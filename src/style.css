@@ -94,3 +94,6 @@ body{
     background-color: #ffef78;
 }
 
+.double{
+    flex-basis: 47%;
+}
